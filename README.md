@@ -15,6 +15,7 @@
     <h3>슬라임 탈출 게임</h3>
     <ul>
         <li><strong>개요</strong>: 2023년 2학기에 진행한 게임엔진 기초 수업 프로젝트로, 5인 구성 팀으로 개발되었으며 저는 캐릭터(슬라임과 인간)를 담당했습니다. 이 게임은 실험실에서 실험 당한 슬라임이 탈출하는 것을 주제로 합니다.</li>
+        <li><strong>게임 배경 설명</strong>: “당신은 연구실에서 실험 당하던 슬라임입니다. 어느 날 지능이 생긴 당신은 끔찍한 실험을 피하기 위해 이 곳을 탈출하기로 결심했습니다. 주변의 능력들을 흡수해 곳곳에 깔린 연구원과 무장 경비원을 기만하고 탈출하는 게임입니다. 많은 수의 경비원들을 기만하기 위해서는 천장에 숨고, 웅크려서 투명해지는 등, 3D 공간을 잘 활용해야 합니다. 탈출에 성공하기 위해서는 능력을 얻어 기만 수단을 얻고 적의 행동 패턴을 잘 파악해야 합니다.”</li>
         <li><strong>캐릭터 능력</strong>:
             <ul>
                 <li>이동: W, A, S, D 키를 사용하여 슬라임을 움직입니다.</li>
@@ -34,6 +35,8 @@
         </li>
         <li><strong>게임 트레일러 영상</strong>: <a href="https://www.youtube.com/watch?v=WFChHSS6D90">링크</a></li>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/WFChHSS6D90" frameborder="0" allowfullscreen></iframe>
+        <li><strong>슬라임 테스트 영상</strong>: <a href="https://www.youtube.com/watch?v=WFChHSS6D90">링크</a></li>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/P7Wj2JRKNJE?si=RFdAUa8XxoEOxIm2" frameborder="0" allowfullscreen></iframe>
     </ul>
 
     <h2>Pygame</h2>
