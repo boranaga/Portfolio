@@ -35,7 +35,7 @@
         </li>
         <li><strong>게임 트레일러 영상</strong>: <a href="https://www.youtube.com/watch?v=WFChHSS6D90">링크</a></li>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/WFChHSS6D90" frameborder="0" allowfullscreen></iframe>
-        <li><strong>슬라임 테스트 영상</strong>: <a href="https://www.youtube.com/watch?v=WFChHSS6D90">링크</a></li>
+        <li><strong>슬라임 테스트 영상</strong>: <a href="https://www.youtube.com/embed/P7Wj2JRKNJE?si=RFdAUa8XxoEOxIm2">링크</a></li>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/P7Wj2JRKNJE?si=RFdAUa8XxoEOxIm2" frameborder="0" allowfullscreen></iframe>
     </ul>
 
