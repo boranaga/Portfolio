@@ -10,8 +10,12 @@
 <body>
     <h1>포트폴리오</h1>
 
-    <h2>언리얼 엔진</h2>
-
+    <h2>Unreal Engine</h2>
+    <h3>Motion Matching<h3>
+    <p>개요: 2024년 1학기 게임캡스톤디자인 수업에서 개인 과제로 진행한 프로젝트입니다. Learned Motion Matching 논문을 토대로 Motion Matching을 Unreal engine에서 구동 가능한 형태로 구현했습니다.</p>
+    <iframe width="560" height="315" src="https://youtu.be/OIw5m1y2YlI?si=xx52cjsbknt4olcx" frameborder="0" allowfullscreen></iframe>
+    
+    
     <h3>슬라임 탈출 게임</h3>
     <ul>
         <li><strong>개요</strong>: 2023년 2학기에 진행한 게임엔진 기초 수업 프로젝트로, 5인 구성 팀으로 개발되었으며 저는 캐릭터(슬라임과 인간)를 담당했습니다. 이 게임은 실험실에서 실험 당한 슬라임이 탈출하는 것을 주제로 합니다.</li>
